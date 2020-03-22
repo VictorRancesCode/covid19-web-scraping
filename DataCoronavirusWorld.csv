@@ -1,0 +1,254 @@
+Country,Province,Confirmed Case,Deaths,Recovered
+China,Hubei,67.800,3.144,59.433
+China,Guangdong,1.407,8,1.329
+China,Henan,1.273,22,1.250
+China,Zhejiang,1.237,1,1.219
+China,Hunan,1.018,4,1.014
+China,Anhui,990,6,984
+China,Jiangxi,936,1,934
+China,Shandong,766,7,750
+China,Jiangsu,633,0,631
+China,Chongqing,577,6,570
+China,Sichuan,543,3,536
+China,Beijing,514,8,400
+China,Heilongjiang,484,13,466
+China,Shanghai,394,4,328
+China,Hebei,319,6,310
+China,Hong Kong,317,4,100
+China,Fujian,307,1,295
+China,Guangxi,254,2,250
+China,Shaanxi,248,3,239
+China,Yunnan,176,2,172
+China,Hainan,168,6,161
+China,Guizhou,146,2,144
+China,Tianjin,137,3,133
+China,Gansu,136,2,114
+China,Shanxi,133,0,133
+China,Liaoning,126,2,124
+China,Jilin,93,1,92
+China,Xinjiang,76,3,73
+China,Inner Mongolia,75,1,74
+China,Ningxia,75,0,75
+China,Macau,20,0,10
+China,Qinghai,18,0,18
+China,Tibet,0,0,1
+Italy,Italy,53.578,4.825,6.072
+Spain,Spain,28.572,1.720,2.125
+US,New York,12.323,76,0
+US,Washington,1.793,94,0
+US,California,1.518,28,0
+US,New Jersey,1.327,16,0
+US,Michigan,809,8,0
+US,Florida,763,13,0
+US,Louisiana,763,20,0
+US,Illinois,753,6,0
+US,Texas,557,5,0
+US,Georgia,555,20,0
+US,Massachusetts,529,2,0
+US,Colorado,475,6,0
+US,Pennsylvania,405,2,0
+US,Tennessee,371,1,0
+US,North Carolina,283,0,0
+US,Wisconsin,282,4,0
+US,Ohio,250,3,0
+US,Maryland,244,3,0
+US,Connecticut,223,5,0
+US,Indiana,201,4,0
+US,South Carolina,174,3,0
+US,Virginia,159,3,0
+US,Nevada,157,2,0
+US,Mississippi,140,1,0
+US,Minnesota,137,1,0
+US,Oregon,137,4,0
+US,Utah,136,0,0
+US,Alabama,131,0,0
+US,Arkansas,122,0,0
+US,Arizona,104,1,0
+US,District of Columbia,98,1,0
+US,Kentucky,87,3,0
+US,Missouri,86,3,0
+US,Maine,70,0,0
+US,Iowa,69,0,0
+US,Rhode Island,66,0,0
+US,New Hampshire,65,0,0
+US,Kansas,58,2,0
+US,New Mexico,57,0,0
+US,Oklahoma,53,1,0
+US,Diamond Princess,49,0,0
+US,Vermont,49,2,0
+US,Hawaii,48,0,0
+US,Delaware,45,0,0
+US,Idaho,42,0,0
+US,Nebraska,38,0,0
+US,Grand Princess,30,1,0
+US,Montana,30,0,0
+US,North Dakota,28,0,0
+US,Puerto Rico,23,1,0
+US,Wyoming,23,0,0
+US,Alaska,21,0,0
+US,Guam,15,1,0
+US,South Dakota,14,1,0
+US,West Virginia,12,0,0
+US,United States Virgin Islands,6,0,0
+US,US,0,0,176
+Germany,Germany,23.921,92,266
+Iran,Iran,21.638,1.685,7.931
+France,France,14.459,562,12
+France,French Polynesia,15,0,0
+France,New Caledonia,4,0,0
+France,St Martin,4,0,0
+"Korea, South","Korea, South",8.897,104,2.909
+Switzerland,Switzerland,7.104,80,131
+United Kingdom,United Kingdom,5.018,233,65
+United Kingdom,Channel Islands,32,0,0
+United Kingdom,Gibraltar,10,0,2
+United Kingdom,Isle of Man,5,0,0
+Netherlands,Netherlands,4.204,179,2
+Netherlands,Aruba,8,0,0
+Belgium,Belgium,3.401,75,263
+Austria,Austria,3.021,8,9
+Norway,Norway,2.216,7,1
+Sweden,Sweden,1.770,20,16
+Portugal,Portugal,1.600,14,5
+Denmark,Denmark,1.395,13,1
+Denmark,Faroe Islands,115,0,0
+Canada,British Columbia,424,10,4
+Canada,Ontario,377,3,6
+Canada,Alberta,226,1,0
+Canada,Quebec,181,5,0
+Canada,Saskatchewan,44,0,0
+Canada,Nova Scotia,21,0,0
+Canada,Manitoba,19,0,0
+Canada,New Brunswick,17,0,0
+Canada,Grand Princess,10,0,0
+Canada,Newfoundland and Labrador,6,0,0
+Australia,New South Wales,533,6,4
+Australia,Victoria,296,0,70
+Australia,Queensland,221,0,8
+Australia,Western Australia,120,1,0
+Australia,South Australia,100,0,3
+Australia,Tasmania,22,0,3
+Australia,Australian Capital Territory,19,0,0
+Australia,Northern Territory,3,0,0
+Malaysia,Malaysia,1.306,10,139
+Brazil,Brazil,1.178,18,2
+Japan,Japan,1.055,35,232
+Czechia,Czechia,995,0,6
+Turkey,Turkey,947,21,0
+Israel,Israel,883,1,36
+Ireland,Ireland,785,3,5
+Cruise Ship,Diamond Princess,712,8,325
+Luxembourg,Luxembourg,670,8,6
+Pakistan,Pakistan,646,3,5
+Thailand,Thailand,599,1,44
+Finland,Finland,594,1,10
+Chile,Chile,537,1,8
+Poland,Poland,536,5,1
+Ecuador,Ecuador,532,7,3
+Greece,Greece,530,13,19
+Qatar,Qatar,481,0,27
+Iceland,Iceland,473,1,22
+Indonesia,Indonesia,450,38,20
+Singapore,Singapore,432,2,140
+Saudi Arabia,Saudi Arabia,392,0,16
+Slovenia,Slovenia,383,1,0
+Philippines,Philippines,380,25,17
+Romania,Romania,367,0,52
+India,India,332,4,27
+Peru,Peru,318,5,1
+Bahrain,Bahrain,310,1,125
+Russia,Russia,306,1,16
+Estonia,Estonia,306,0,2
+Egypt,Egypt,294,10,42
+Mexico,Mexico,251,2,4
+Panama,Panama,245,3,0
+South Africa,South Africa,240,0,0
+Lebanon,Lebanon,230,4,8
+Argentina,Argentina,225,4,3
+Iraq,Iraq,214,17,51
+Colombia,Colombia,210,1,3
+Croatia,Croatia,206,1,5
+Armenia,Armenia,190,0,2
+Kuwait,Kuwait,188,0,27
+Serbia,Serbia,188,1,1
+Slovakia,Slovakia,178,1,0
+Bulgaria,Bulgaria,171,3,3
+Taiwan*,Taiwan*,169,2,28
+San Marino,San Marino,160,20,4
+United Arab Emirates,United Arab Emirates,153,2,38
+Algeria,Algeria,139,15,65
+Latvia,Latvia,139,0,1
+Uruguay,Uruguay,135,0,0
+Lithuania,Lithuania,131,1,1
+Hungary,Hungary,131,4,7
+Costa Rica,Costa Rica,117,2,2
+North Macedonia,North Macedonia,114,0,1
+Andorra,Andorra,113,1,1
+Dominican Republic,Dominican Republic,112,3,0
+Vietnam,Vietnam,106,0,17
+Morocco,Morocco,104,3,3
+Jordan,Jordan,99,0,1
+Bosnia and Herzegovina,Bosnia and Herzegovina,93,1,2
+Malta,Malta,90,0,2
+Albania,Albania,89,2,2
+Cyprus,Cyprus,84,1,3
+Brunei,Brunei,83,0,4
+Sri Lanka,Sri Lanka,82,0,3
+Moldova,Moldova,80,1,1
+Belarus,Belarus,76,0,15
+Burkina Faso,Burkina Faso,75,4,5
+Tunisia,Tunisia,75,3,0
+Venezuela,Venezuela,70,0,15
+New Zealand,New Zealand,66,0,0
+Azerbaijan,Azerbaijan,65,1,10
+Kazakhstan,Kazakhstan,57,0,0
+Senegal,Senegal,56,0,5
+Guadeloupe,Guadeloupe,56,0,0
+Georgia,Georgia,54,0,3
+Cambodia,Cambodia,53,0,1
+Oman,Oman,52,0,12
+Trinidad and Tobago,Trinidad and Tobago,50,0,1
+Ukraine,Ukraine,47,3,1
+Reunion,Reunion,47,0,0
+Uzbekistan,Uzbekistan,43,0,0
+Cameroon,Cameroon,40,0,0
+Liechtenstein,Liechtenstein,37,0,0
+Martinique,Martinique,37,1,0
+Afghanistan,Afghanistan,34,0,1
+Bangladesh,Bangladesh,27,2,3
+Nigeria,Nigeria,27,0,2
+Honduras,Honduras,26,0,0
+Bolivia,Bolivia,24,0,0
+Congo (Kinshasa),Congo (Kinshasa),23,1,0
+Paraguay,Paraguay,22,1,0
+Cuba,Cuba,21,1,0
+Ghana,Ghana,21,1,0
+Mauritius,Mauritius,18,1,0
+French Guiana,French Guiana,18,0,6
+Guatemala,Guatemala,17,1,0
+Rwanda,Rwanda,17,0,0
+Jamaica,Jamaica,16,1,2
+Montenegro,Montenegro,16,0,0
+Togo,Togo,16,0,1
+Kenya,Kenya,15,0,0
+Barbados,Barbados,14,0,0
+Cote d'Ivoire,Cote d'Ivoire,14,0,1
+Kyrgyzstan,Kyrgyzstan,14,0,0
+Maldives,Maldives,13,0,0
+Tanzania,Tanzania,12,0,0
+Ethiopia,Ethiopia,11,0,4
+Monaco,Monaco,11,0,0
+Mayotte,Mayotte,11,0,0
+Mongolia,Mongolia,10,0,0
+Seychelles,Seychelles,7,0,0
+Guyana,Guyana,7,1,0
+Equatorial Guinea,Equatorial Guinea,6,0,0
+Gabon,Gabon,5,1,0
+Suriname,Suriname,5,0,0
+"Bahamas, The","Bahamas, The",4,0,0
+Eswatini,Eswatini,4,0,0
+Cabo Verde,Cabo Verde,3,0,0
+Congo (Brazzaville),Congo (Brazzaville),3,0,0
+Central African Republic,Central African Republic,3,0,0
+El Salvador,El Salvador,3,0,0
+Nepal,Nepal,2,0,1
